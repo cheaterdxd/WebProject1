@@ -1,0 +1,73 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background: cornsilk;
+}
+p{
+	text-align: center;
+	font-family: cursive;
+	font-size: 30px;
+}
+.name{
+	font-family: 'Covered By Your Grace', sans-serif;
+	font-size:100px;
+	text-align: center;
+	background: cornsilk;
+	margin: 0px auto;
+}
+ a{
+	color:black;
+}
+#welcome{
+	text-align: center;
+	font-family: cursive;
+	font-size: 50px;
+}
+.link{
+	background: silver;
+	display:inline;
+	border: solid black 2px;
+	border-radius: 8px;
+	padding:5px 156px;
+	margin: 10px;
+}
+
+.intro{
+	width:1200px;
+	border:solid black 2px;
+	border-radius: 10px;
+	margin:21px;
+	padding: 20px;
+}
+li{
+	background:silver;
+	display: inline-grid;
+	border:solid black 3px;
+	border-radius: 10px;
+	color: blue;
+	width: 500px;
+	height: 600px;
+	margin: 20px;
+	padding:20px;
+}
+img{
+	margin: 0 80px;
+	width:300px;
+	height: 300px;
+	border-radius: 10px;
+}
+#foot{
+	background: silver;
+	display:inline-block;
+	width: 400px;
+	border: solid black 2px;
+	border-radius:10px;
+	text-align:center;
+	padding:10px;
+	margin:0 5px;
+	margin-top: 50px;
+}
+#member{
+	text-align: center;
+}

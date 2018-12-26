@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+table {
+  	height: 40%;
+  	left: 10%;
+  	margin: 20px auto;
+  	width: 80%;
+}
+
+th{
+	background: lightblue;
+	width:500px;
+	border:solid black 1px;
+}
+tr {
+  	background: #f4f7f8;
+  	border: solid black 2px;
+  	margin-bottom: 5px;
+}
+
+th, td {
+	text-align: center;
+	border: solid black 1px;
+  	font-family: 'Lato', sans-serif;
+  	font-size: 18px;
+  	font-weight: 400;
+  	padding: 20px;
+  	width: 33.3333%;
+}
